@@ -1,0 +1,16 @@
+{
+  "name": "OsmoeInfoSite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://thodzen.github.io/OsmoeSamInfo",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
